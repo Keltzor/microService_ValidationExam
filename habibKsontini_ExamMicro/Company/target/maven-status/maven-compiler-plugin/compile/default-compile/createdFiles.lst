@@ -1,0 +1,12 @@
+com\esprit\firstapp\services\StockClient.class
+com\esprit\firstapp\controllers\ArticleController.class
+com\esprit\firstapp\services\ArticleService.class
+com\esprit\firstapp\services\IArticleService.class
+com\esprit\firstapp\entities\ArticleWithStockDTO$ArticleWithStockDTOBuilder.class
+com\esprit\firstapp\entities\Article$ArticleBuilder.class
+com\esprit\firstapp\FirstAppApplication.class
+com\esprit\firstapp\entities\ArticleWithStockDTO.class
+com\esprit\firstapp\entities\StockDTO.class
+com\esprit\firstapp\mappers\ArticleMappers.class
+com\esprit\firstapp\entities\Article.class
+com\esprit\firstapp\repository\ArticleRepository.class
